@@ -1,0 +1,11 @@
+{
+  "title": "depaullpschoo",
+  "description": "Showcases a modern, responsive high school website presenting school info, academics, facilities, activities, and contact details to engage parents and students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
