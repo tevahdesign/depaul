@@ -1,11 +1,11 @@
 {
-  "title": "depaullpschoo",
-  "description": "Showcases a modern, responsive high school website presenting school info, academics, facilities, activities, and contact details to engage parents and students.",
-  "robots": {
-    "index": false
-  },
-  "accessibility": {
-    "addBypassLinks": false,
-    "ignoreReducedMotion": false
-  }
+"title": "De Paul LP School",
+"description": "Welcome to De Paul LP School. Explore our school, academic programs, facilities, extracurricular activities, admissions, and contact information. Discover a nurturing learning environment that supports students' growth and development.",
+"robots": {
+"index": true
+},
+"accessibility": {
+"addBypassLinks": true,
+"ignoreReducedMotion": false
+}
 }
